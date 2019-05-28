@@ -1,0 +1,185 @@
+{
+    "about": {
+        "purpose": "This document provides an overview of what we measure, why, how, and where the information can be found.",
+        "partner": {
+            "department": "TBD",
+            "unit": "TBD",
+            "serviceOwner": "TBD"
+        },
+        "aims": [
+            "State the priority outputs and outcomes that the project is set up to deliver."
+        ]
+    },
+    "phases": [
+        {
+            "type": "discovery",
+            "dates": {
+                "start": "YYYY-MM-DD",
+                "end": "YYYY-MM-DD"
+            },
+            "metrics": [
+                {
+                    "type": "delivery",
+                    "measurement": "State the measurement.",
+                    "rationale": "State why it was chosen.",
+                    "methodology": {
+                        "description": "",
+                        "links": []
+                    },
+                    "results": [
+                        {
+                            "date": "YYYY-MM-DD",
+                            "value": ""
+                        },
+                        {
+                            "date": "YYYY-MM-DD",
+                            "value": ""
+                        }
+                    ]
+                },
+                {
+                    "type": "performance",
+                    "measurement": "State the measurement.",
+                    "rationale": "State why it was chosen.",
+                    "methodology": {
+                        "description": "",
+                        "links": []
+                    },
+                    "results": [
+                        {
+                            "date": "YYYY-MM-DD",
+                            "value": ""
+                        },
+                        {
+                            "date": "YYYY-MM-DD",
+                            "value": ""
+                        }
+                    ]
+                },
+                {
+                    "type": "capacity",
+                    "measurement": "State the measurement.",
+                    "rationale": "State why it was chosen.",
+                    "methodology": {
+                        "description": "",
+                        "links": []
+                    },
+                    "results": [
+                        {
+                            "date": "YYYY-MM-DD",
+                            "value": ""
+                        },
+                        {
+                            "date": "YYYY-MM-DD",
+                            "value": ""
+                        }
+                    ]
+                },
+                {
+                    "type": "outcome",
+                    "measurement": "State the measurement.",
+                    "rationale": "State why it was chosen.",
+                    "methodology": {
+                        "description": "",
+                        "links": []
+                    },
+                    "results": [
+                        {
+                            "date": "YYYY-MM-DD",
+                            "value": ""
+                        },
+                        {
+                            "date": "YYYY-MM-DD",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "alpha",
+            "dates": {
+                "start": "YYYY-MM-DD",
+                "end": "YYYY-MM-DD"
+            },
+            "metrics": [
+                {
+                    "type": "delivery",
+                    "measurement": "State the measurement.",
+                    "rationale": "State why it was chosen.",
+                    "methodology": {
+                        "description": "",
+                        "links": []
+                    },
+                    "results": [
+                        {
+                            "date": "YYYY-MM-DD",
+                            "value": ""
+                        },
+                        {
+                            "date": "YYYY-MM-DD",
+                            "value": ""
+                        }
+                    ]
+                },
+                {
+                    "type": "performance",
+                    "measurement": "State the measurement.",
+                    "rationale": "State why it was chosen.",
+                    "methodology": {
+                        "description": "",
+                        "links": []
+                    },
+                    "results": [
+                        {
+                            "date": "YYYY-MM-DD",
+                            "value": ""
+                        },
+                        {
+                            "date": "YYYY-MM-DD",
+                            "value": ""
+                        }
+                    ]
+                },
+                {
+                    "type": "capacity",
+                    "measurement": "State the measurement.",
+                    "rationale": "State why it was chosen.",
+                    "methodology": {
+                        "description": "",
+                        "links": []
+                    },
+                    "results": [
+                        {
+                            "date": "YYYY-MM-DD",
+                            "value": ""
+                        },
+                        {
+                            "date": "YYYY-MM-DD",
+                            "value": ""
+                        }
+                    ]
+                },
+                {
+                    "type": "outcome",
+                    "measurement": "State the measurement.",
+                    "rationale": "State why it was chosen.",
+                    "methodology": {
+                        "description": "",
+                        "links": []
+                    },
+                    "results": [
+                        {
+                            "date": "YYYY-MM-DD",
+                            "value": ""
+                        },
+                        {
+                            "date": "YYYY-MM-DD",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
